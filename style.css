@@ -1,0 +1,128 @@
+*{
+padding: 0;
+margin: 0;
+}
+#pot{
+    width: 100%;
+    height: 400px;
+}
+#studio{
+    width: 50%;
+    height: 400px;
+    color: white;
+    text-align: center;
+}
+#studio1{
+    width: 50%;
+    height: 400px;
+    color: white;
+    text-align: center;
+}
+#head{
+   border-bottom-style:solid;
+   border-bottom-color: yellow;
+   border-bottom-width: 5px;
+   border-radius: 10px;
+}
+#head1{
+    border-bottom-style:solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 5px;
+    border-radius: 10px;
+}
+#workshop{
+    width: 40%;
+    height: 600px;
+}
+#head2{
+    border-bottom-style:solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 5px;
+    border-radius: 10px;
+}
+#workshop1{
+    width: 60%;
+    height: 600px;
+    background-image: url(Images/Pot2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#membership{
+    width: 60%;
+    height: 600px;
+    background-image: url(Images/Pot3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#workshop2{
+    width: 40%;
+    height: 600px;
+    color: white;
+    text-align: justify;
+}
+#head3{
+    border-bottom-style:solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 5px;
+    border-radius: 10px;
+}
+#cont{
+    width: 100%;
+    height: 100%;
+    background-color: wheat;
+}
+.head4{
+    text-align: center;
+    padding: 5%;
+    border-bottom-style:solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 5px;
+    border-radius: 10px;
+}
+#Art{
+    padding: 7%;
+}
+#lastpot{
+    width: 100%;
+    height: 500px;
+}
+.lasthead{
+    text-align: center;
+    margin-top: 10%;
+}
+#lastcont{
+    width: 100%;
+    height: 650px;
+    background-color: black;
+}
+.head5{
+    text-align: center;
+    padding: 5%;
+    border-bottom-style:solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 5px;
+    border-radius: 10px;
+}
+#email{
+    margin-left: 30%;
+    width: 300px;
+    background-color: black;
+    margin-top: 25px;
+    padding: 1%;
+}
+#Subscribe{
+    width: 100px;
+    margin-left: 1%;
+    padding: 1%;
+}
+#headoverlay{
+    background-color: wheat;
+}
+#inshead{
+    text-align: center;
+    padding: 5%;
+    border-bottom-style:solid;
+    border-bottom-color: yellow;
+    border-bottom-width: 5px;
+    border-radius: 10px;
+}
